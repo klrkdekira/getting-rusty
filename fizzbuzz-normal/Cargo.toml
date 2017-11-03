@@ -1,0 +1,6 @@
+[package]
+name = "fizzbuzz-normal"
+version = "0.1.0"
+authors = ["klrkdekira"]
+
+[dependencies]
